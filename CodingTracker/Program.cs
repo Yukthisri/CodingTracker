@@ -9,5 +9,10 @@ namespace CodingTracker
            // Console.WriteLine("Hello World!");
             Console.WriteLine("Hello C# Academy");
         }
+
+        void MyMethod()
+        {
+            Console.WriteLine("Now I have a method");
+        }
     }
 }
