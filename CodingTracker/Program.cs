@@ -1,18 +1,14 @@
-﻿using System;
-
-namespace CodingTracker
+﻿void MyFirstMethod()
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-           // Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello C# Academy");
-        }
+    //Do Something
+}
 
-        void MyMethod()
-        {
-            Console.WriteLine("Now I have a method");
-        }
-    }
+void MySecondMethod()
+{
+    //Do Something
+}
+
+void MyThirdMethod()
+{
+    //Do Something
 }
